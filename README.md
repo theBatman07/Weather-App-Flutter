@@ -15,15 +15,11 @@ To get started with the Flutter Weather App, follow these steps:
 
 1. **Clone the Repository:**
 
-bashCopy code
-
 ```bash
 git clone https://github.com/theBatman07/Weather-App-Flutter.git
 ```
 
 2. **Navigate to Project Directory:**
-
-bashCopy code
 
 ```bash
 cd Weather-App-Flutter
@@ -31,15 +27,11 @@ cd Weather-App-Flutter
 
 3. **Install Dependencies:**
 
-bashCopy code
-
 ```bash
 flutter pub get
 ```
 
 4. **Run the App:**
-
-bashCopy code
 
 ```bash
 flutter run
