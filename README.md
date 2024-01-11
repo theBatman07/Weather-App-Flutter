@@ -2,7 +2,7 @@
 
 Welcome to the Flutter Weather App project! This mobile application is designed to provide users with up-to-date weather information for the next 5 days. The app fetches weather data from a third-party API and displays it in a user-friendly interface.
 
-![App Preview](https://drive.google.com/uc?id=1xhtxXGLdHCroA51US6LpAOwq3lZuq68i)
+<img src="https://drive.google.com/uc?id=1xhtxXGLdHCroA51US6LpAOwq3lZuq68i" alt="App Preview" width="400" height="auto">
 
 ## Features
 
